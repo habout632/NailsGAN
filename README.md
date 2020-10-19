@@ -1,5 +1,5 @@
 # NailsGAN
-
+![alt text](samples/663000_reference.jpg "Title")
 
 ## Paper
 Arxiv
