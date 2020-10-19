@@ -3,6 +3,7 @@
 
 ## Paper
 Arxiv
+https://arxiv.org/submit/3423426/view
 
 ## Code
 Github
