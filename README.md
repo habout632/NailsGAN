@@ -18,6 +18,9 @@ Extraction Code：r66d
 Google Drive
 
 
+we use image_downloader to scrape images 
+resolution of each image is 1080x1080
+
 
 ## Scripts
 pip packages
